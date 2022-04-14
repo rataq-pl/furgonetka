@@ -1,5 +1,5 @@
 {
-  "name": "rataqPL/furgonetka",
+  "name": "rataq-pl/furgonetka",
   "description": "Implementacja API serwisu furgonetka.pl",
   "type": "library",
   "license": "MIT",
