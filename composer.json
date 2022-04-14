@@ -1,0 +1,19 @@
+{
+  "name": "rataqPL/furgonetka",
+  "description": "Implementacja API serwisu furgonetka.pl",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "nazwa": "Mateusz Ratajczak",
+      "e-mail": "mateusz@rataq.pl"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Rataq\\Furgonetka\\": "src/"
+    }
+  }
+}
